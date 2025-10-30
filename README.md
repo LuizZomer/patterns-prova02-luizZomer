@@ -15,3 +15,4 @@ Patterns Estruturais:
 - Bridge
 - Composite
 - Decorator
+- 
